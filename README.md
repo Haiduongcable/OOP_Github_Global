@@ -1,2 +1,5 @@
 # OOP_Github_Global
-Try your best
+Welcome everyone to my Public repo!
+Please push code in your branch!
+Thank you so much!
+
